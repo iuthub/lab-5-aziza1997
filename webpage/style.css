@@ -24,11 +24,3 @@ input[type="submit"] {
     font-size: 2em;
     width: 100%;
 }
-input[type="text"] 
-{  background-color: lightgrey;  font-weight: bold; }
-
-input[type="radio"]
- {  background-color: lightgrey;  font-weight: bold; }
-
-select [option="selected"]
-{  background-color: lightgrey;  font-weight: bold; }
